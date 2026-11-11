@@ -1,0 +1,3302 @@
+[
+  {
+    "review_texto": "Mano do céu, que hamburgão sensacional!! Carne no ponto perfeitinho, super suculenta e os ingredientes extremamente frescos. Ganharam um cliente fiel!",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Simplesmente impecável. O tempero da feijoada tava maravilhoso, couve novinha e a carne derretendo de tão macia. Comida de verdade!",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Nossa o sushi mais fresco que ja pedi no app!! Peixe derretendo na boca, arroz no ponto certo sem estar grudento. Espetacular dmais",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Strogonoff perfeito! Batata palha crocante, molho aveludado e o frango super bem temperado. Parabéns ao chefe!",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Caraca mano rango brabo demais!! Pedi o parmegiana e veio surreal de gostoso, molho caseiro de verdade e muito queijo. Nota 1000",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Que refeição maravilhosa! Tudo muito fresco, tempero na medida certa sem exagero de sal. Dá pra ver o capricho em cada detalhe.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Massa artesanal divina! O molho pesto estava super fresco, com gosto de manjericão colhido na hora. Ponto da massa perfeito al dente.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Sensacional!! O poke tava uma delícia, avocado no ponto perfeito, peixe super fresco e combinação de molhos impecável.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Pai amado q pizza gostosa!! Massa leve, recheio generoso e ingredientes de primeiríssima qualidade. Perfeição pura",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Comida caseira de altíssimo nível. Tempero afetivo, lembra comida de vó. O assado tava suculento e super bem preparado.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Simplesmente o melhor hambúrguer da cidade. Blend saboroso, bacon crocante no ponto certo e queijo bem derretido. Incrível!",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Que surpresa agradável! O prato veio montado com muito capricho, ingredientes visivelmente frescos e um sabor espetacular.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Top demaisss! O temaki tava crocante, salmão super fresco e cream cheese na quantidade exata. Virei fã num nível absurdo",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Experiência gastronômica perfeita. O filé mignon estava extremamente macio, ponto perfeito vermelho no centro e tempero impecável.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Nossa sinhora que podrão gostoso kkkkk carne bem temperada, salada fresca e o molho especial é um espetáculo a parte",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Comida divina! O risoto estava extremamente cremoso, arroz no ponto exato e cogumelos frescos super saborosos.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Surpreendente! Pedi sem muita expectativa e me entregaram um dos melhores yakisobas que já comi. Legumes crocantes e molho no ponto.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Melhor marmita da região com certeza! Tempero caseiro maravilhoso, feijão vermelhinho bem temperado e bife super macio.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Que espetáculo de refeição. Tudo muito saboroso, dá pra sentir o frescor dos ingredientes a cada garfada. Parabéns!",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Gente do ceu q lasanha perfeita!! Molho artesanal delicioso, massa no ponto e muito queijo bem gratinado. Mto top",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Tudo impecável. Da apresentação ao sabor de cada ingrediente. O tempero do frango grelhado estava no ponto exato, nada seco.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Simplesmente sensacional. A salada tava super fresca e crocante, molho delicioso e a proteína perfeita.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Amo esse restaurante! A qualidade dos ingredientes é sempre surreal de boa. Peixe fresco e bem temperado como sempre.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Sabor surreal de bom!! O burrito veio super recheado, guacamole fresca e tempero mexicano na medida certa sem arder demais.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Que comida fantástica! Tempero impecável, cozimento no ponto exato e qualidade dos ingredientes que salta aos olhos.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Pedi sem cebola pq tenho alergia grave e colocaram UMA MONTANHA de cebola. Não deu pra comer nada, joguei fora. Quero meu dinheiro de volta, nunca mais peço aqui!",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Ingredientes enviados contrariando observação sobre alergia"
+    }
+  },
+  {
+    "review_texto": "Combrei o combo que vinha lanche, batata e coca lata. Adivinha? Não veio a coca! Cobraram o valor cheio do combo pra mandar incompleto.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Item faltante no combo (refrigerante)"
+    }
+  },
+  {
+    "review_texto": "O lanche é gostoso mas vcs precisam ler as observações mano... pedi claramente sem maionese e veio lotado",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Ignorou observação para retirar maionese"
+    }
+  },
+  {
+    "review_texto": "Paguei 8 reais a mais pelo adicional de cheddar e bacon e não veio NADA. So o hambúrguer seco. Palhaçada total com o consumidor.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Adicional pago não enviado"
+    }
+  },
+  {
+    "review_texto": "Pedi sem pimenta por causa de problema de saúde. Resultado: veio pura pimenta mal consigo mastigar. Absurdo o descaso do restaurante.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Ignorou instrução de retirar pimenta"
+    }
+  },
+  {
+    "review_texto": "Rango tava bom mas esquece né, pedi a marmita sem feijão pq odeio e veio nadando no caldo. Tive q jogar metade fora.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Ignorou pedido de remoção de feijão"
+    }
+  },
+  {
+    "review_texto": "Mano cancela essa loja do app!! Paguei combo duplo e veio só 1 lanche. Cobram caro e ainda roubam o cliente. Exijo reembolso imediato ou vou no procon!",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Faltou um item principal do combo duplo e cliente exige reembolso"
+    }
+  },
+  {
+    "review_texto": "Comida excelente como sempre, mas dessa vez esqueceram a sobremesa do combo executivo. Fiquei no vácuo do pudim :(",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Sobremesa inclusa no combo não foi enviada"
+    }
+  },
+  {
+    "review_texto": "entrega super rápida parabens ao motoboy, porem a cozinha pecou dmais... pedi pizza meio a meio sem pimentão no lado da calabresa e colocaram nas duas metades",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "positivo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Ignorou observação sobre ingrediente em metade da pizza"
+    }
+  },
+  {
+    "review_texto": "Pior experiência possível. Deixei registrado na obs que não queria molho verde por alergia. Enviaram com muito molho. Tive que ir pro hospital. Vou processar e desinstalando o app agora.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Desrespeito a alerta de alergia causando dano à saúde do cliente"
+    }
+  },
+  {
+    "review_texto": "Esqueceram o molho especial q eu paguei 5 conto a mais. O lanche ficou super seco. Vcs precisam prestar mais atenção nos pedidos!",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Faltou molho extra pago à parte"
+    }
+  },
+  {
+    "review_texto": "a comida é top d+ quentinha e bem embalada mas pow pedi Guaraná Zero e mandaram Fanta Laranja normal... sou diabético pow",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Troca indevida de bebida sem respeitar restrição de açúcar"
+    }
+  },
+  {
+    "review_texto": "Sempre peço aqui mas hj vacilaram mt. Pedi o açaí sem amendoim e veio cheio. Tive q catar um por um pra conseguir tomar.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Ignorou pedido de remoção de acompanhamento (amendoim)"
+    }
+  },
+  {
+    "review_texto": "Comida chegou rápida e quentinha mas veio faltando o refrigerante do combo de 2 litros. Liguei lá e nem atenderam. Péssimo pós venda.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "positivo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Item faltante (refrigerante 2L) e ausência de suporte"
+    }
+  },
+  {
+    "review_texto": "Coloquei na obs bem grande: FAVOR NAO COLOCAR TOMATE. O q veio? Tomate cortado em cubo misturado na salada toda. Impossivel tirar.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Ignorou observação explícita de remoção de tomate"
+    }
+  },
+  {
+    "review_texto": "Muito caro pra vir faltando a batata frita grande que pedi a parte. Vcs cobram 20 reais numa batata e simplesmente esquecem de enviar?? Ridículo.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Item pago à parte (batata frita) não enviado"
+    }
+  },
+  {
+    "review_texto": "Chegou no tempo certo mas esqueceram o suco natural do meu filho. O menino ficou chorando esperando. Nunca mais compro nessa loja, falta de respeito!",
+    "analise": {
+      "comida": "nao_mencionado",
+      "entrega": "positivo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Faltou item infantil do pedido e cliente afirma não voltar a comprar"
+    }
+  },
+  {
+    "review_texto": "mano o podrao eh monstro mt gostoso porem faltou o sachê de maionese temperada q eu pedi na obs... fica a dica aí pra olhar a comanda",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Esqueceram maionese solicitada na observação"
+    }
+  },
+  {
+    "review_texto": "Segunda vez seguida q peço combo promocional e mandam sem a sobremesa. Ja deu né? Não vou pedir nunca mais. Quero o estorno desse item!",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Reincidência de item faltante em combo e pedido de estorno"
+    }
+  },
+  {
+    "review_texto": "Lanche maravilhoso e super bem embalado mas mandaram com vinagrete sendo q pedi expressamente na obs pra nao colocar. Tive q dar meu lanche pro meu irmao.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Ignorou observação sobre retirada de vinagrete"
+    }
+  },
+  {
+    "review_texto": "Tudo péssimo. Paguei borda recheada de catupiry na pizza e veio borda seca sem nada. Cobraram a mais por um serviço q não entregaram. Pura enganação.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Adicional de borda recheada cobrado e não entregue"
+    }
+  },
+  {
+    "review_texto": "Comida top d+, entregador nota 10 mt educado, só faltou atenção na cozinha pq pedi a carne bem passada e veio sangrando no meio.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "positivo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Ignorou preferência sobre o ponto da carne"
+    }
+  },
+  {
+    "review_texto": "Faltou a salada que vinha de acompanhamento do prato principal. O valor é alto demais pra vir pela metade. Decepcionado.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Acompanhamento do prato principal omitido"
+    }
+  },
+  {
+    "review_texto": "Pedi espetinho sem alho por restrição médica e veio entupido de alho amassado por cima. Não deu pra comer nada, foi direto pro lixo. Perdi meu dinheiro.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Descumpriu observação de restrição médica sobre ingrediente"
+    }
+  },
+  {
+    "review_texto": "Lixo de atendimento! Pedido veio faltando 2 refrigerantes e a porção de nuggets. Tentei contato pelo suporte e me ignoraram. Exijo estorno imediato ou vou cancelar o cartão! Nunca mais pego nada aqui.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Múltiplos itens faltantes com recusa de suporte e ameaça de chargeback"
+    }
+  },
+  {
+    "review_texto": "Paguei 45 reais num pote de strogonoff q parecia amostra gratis na foto vinha com batata palha e arroz transbordando na real mal deu pra forrar o dente absurdo total quero meu dinheiro de volta nunca mais peco",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Porção minúscula incompatível com o preço e a foto, cliente solicitou estorno."
+    }
+  },
+  {
+    "review_texto": "A comida até q e saborosa mas vcs tao de sacanagem ne? 60 conto num pedaco de carne do tamanho de uma caixa de fosforo. Na foto do app parece um prato executivo de banquete, pura propaganda enganosa.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Porção muito menor do que a imagem ilustrativa do cardápio."
+    }
+  },
+  {
+    "review_texto": "Piada de mau gosto. Pedi o combo família achando que dava pra 3 pessoas como tá na descrição. Veio uma quentinha minúscula rasa de isopor. Tive que fazer miojo pra complementar. Vergonhoso cobrar 90 reais nisso.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "neutro",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Combo família anunciado serve quantidade insuficiente para o número de pessoas alegado."
+    }
+  },
+  {
+    "review_texto": "o lanche eh bom mas eh minúsculo parece hamburguer de festa infantil paguei 38 conto no podrão e veio um mini burguer kkkk rir pra n chorar",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Sanduíche artesanal com tamanho desproporcional ao preço cobrado."
+    }
+  },
+  {
+    "review_texto": "Propaganda totalmente enganosa. O sushi na foto do ifood vinha num barco lindo com pecas enormes e fartas. Chegou aqui parecendo sushi de brinquedo, arroz soltando e lamina de salmao transparente. Nao peco nunca mais nessa espelunca.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Foto de apresentação incompatível com o sushi mirrado e mal preparado entregue."
+    }
+  },
+  {
+    "review_texto": "Passei raiva hj viu. Batata frita com cheddar e bacon: 32 reais pra vir num pote de molho de 100ml. Na foto era uma barca lotada. Vcs não tem vergonha na cara não?",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Quantidade ínfima de acompanhamento enviada em pote inadequado."
+    }
+  },
+  {
+    "review_texto": "marmitex cara e vazia!! metade do espaco veio vazio e a carne parecia que foi dividida com regua de tao fina. decepcionante dms",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "neutro",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Marmita com volume visivelmente escasso e carne fina demais."
+    }
+  },
+  {
+    "review_texto": "Gostei do tempero mas nao vale nem metade dos 50 reais cobrados. Foto enganosa dms parece q vem meio quilo de parmegiana e n tinha 150g.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Prato bem temperado, porém porção com peso muito abaixo do sugerido na imagem."
+    }
+  },
+  {
+    "review_texto": "Isso aqui beira o crime contra o consumidor. Vender prato individual por 55 reais e mandar literalmente 3 garfadas de massa. Exijo meu reembolso ou vou abrir reclamacao no procon, absurdo sem tamanho.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Porção de massa irrisória para prato individual caro, exigência de reembolso."
+    }
+  },
+  {
+    "review_texto": "o acai de 500ml de vcs tem 300ml no maximo kkkkk pedi pra pesar e n bateu nem com o pote junto. fora que quase n colocaram fruta. mt caro pra vir miseria",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Volume aferido inferior ao contratado e escassez de adicionais."
+    }
+  },
+  {
+    "review_texto": "Comprei uma tábua de petisco de 110 reais pra receber visita e passei vergonha. A foto mostrava um banquete com queijo salame e azeitona. Veio tudo jogado nuns copinhos plasticos mixurucas, dava nem pra um petisco individual.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Tábua de petiscos cara com apresentação tosca e porções extremamente reduzidas."
+    }
+  },
+  {
+    "review_texto": "mt decepcionado. o lanche veio numa caixa gigante parecia q vinha um monstro quando abri era do tamanho da palma da mao e frio ainda por cima. valor abusivo",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "neutro",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Tamanho do hambúrguer desproporcional à embalagem e temperatura inadequada."
+    }
+  },
+  {
+    "review_texto": "O gosto e fantastico mas a quantidade e uma vergonha pelo preco. 70 reais num risoto que veio cobrindo apenas o fundo do prato descartavel.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "neutro",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Risoto com boa qualidade culinária, mas quantidade insuficiente pelo valor cobrado."
+    }
+  },
+  {
+    "review_texto": "Nota zero. Cobram valor de restaurante de luxo e mandam um rango q nao alimenta uma crianca. Foto meramente ilustrativa devia ter limite legal. Nao comprem aqui!",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Porção excessivamente pequena e discrepância grotesca com a foto do catálogo."
+    }
+  },
+  {
+    "review_texto": "veio rapido ate mas a porcao de mandioca veio com exatamente 6 pedacos contados. 28 reais nisso?? nunca mais cai nessa roubada",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "positivo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Porção de mandioca com contagem irrisória de unidades para o preço pago."
+    }
+  },
+  {
+    "review_texto": "Pastel carissimo e de vento. Na foto do cardapio transbordava queijo e camarao, quando mordi era so massa oca e dois camaroes minusculos perdidos. Furada pura.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Recheio escasso em comparação ao recheio abundante promovido no aplicativo."
+    }
+  },
+  {
+    "review_texto": "Sinceramente me senti assaltado sem arma. 85 conto numa pizza individual brotinho que parecia bolacha de tao fina e sem recheio. Nunca mais passo perto desse restaurante.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Pizza individual fina e sem recheio com cobrança excessiva."
+    }
+  },
+  {
+    "review_texto": "embalagem bonitinha e entrega pontual mas a comida e uma piada. cobrar 40 reais numa salada caesar e vir 4 folhas de alface e dois cubos de frango e rir da cara do cliente",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "positivo",
+      "embalagem": "positivo",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Ingredientes mínimos em salada com valor agregado elevado."
+    }
+  },
+  {
+    "review_texto": "comprei achando q vinha bastante comida pq na foto parecia refeicao pra pedreiro mas me mandaram comida de passarinho. mt caro pro q entregam",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Expectativa visual de marmita farta quebrada por porção reduzida."
+    }
+  },
+  {
+    "review_texto": "A comida estava gostosa, porem a foto induz totalmente ao erro. Parecia vir uma costela inteira e eram so dois ossinhos com quase nada de carne. Nao vale o valor nem a pau.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Costela com corte escasso em carne, divergindo da imagem comercial."
+    }
+  },
+  {
+    "review_texto": "Experiencia horrivel. Pedi estorno no suporte do ifood na hora. Prato de 75 reais que veio com quantidade de entrada. Nao compro nunca mais e vou deletar minha conta se n devolverem meu dinheiro.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Volume de comida inaceitável gerando pedido de estorno e ameaça de churn."
+    }
+  },
+  {
+    "review_texto": "o poke e bem fresquinho e gostoso mas o pote veio pela metade. paguei adicional de salmao e mal deu pra sentir o gosto de tao pouco. preco bem salgado pra miseria que veio",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "neutro",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Recipiente de poke preenchido pela metade mesmo pagando adicionais de proteína."
+    }
+  },
+  {
+    "review_texto": "Q vergonha bicho. Churrasco misto de 120 reais que veio em um potinho de sobremesa. Mal deu pra uma pessoa comer direito. Foto puramente fake.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Porção de churrasco de alto custo entregue em quantidade manifestamente insuficiente."
+    }
+  },
+  {
+    "review_texto": "Sem condicoes. O yakisoba tava ok de sal mas cade a carne e o frango? So macarrao com molho e duas rodelas de cenoura. 48 reais nisso e chamar o cliente de palhaco.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Yakisoba sem as proteínas contratadas e inflacionado em relação ao conteúdo entregue."
+    }
+  },
+  {
+    "review_texto": "Tive uma decepcao imensa. Pedido veio correto e embalado perfeitamente mas a porcao de nachos parecia resto de pacote, nao veio nem 50 gramas por 35 reais. Falta de respeito.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Gramatura ínfima de petisco mexicano vendida por preço excessivo."
+    }
+  },
+  {
+    "review_texto": "Marmita pesada demais slc, paguei 22 conto e veio comida pra duas pessoas facil. Carne macia e tempero caseiro bom demais",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Gente surreal o tamanho desse prato comercial!! Veio abarrotado de feijao tropeiro e a bisteca gigante. Pelo preco nao dava nada, virei fa",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "mt bom e mt barato!! pedi o combo achando q era individual pequeno mas veio um banquete kkkk sobrou pra janta",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Podrão de respeito! Pelo valor achei que vinha aqueles hambúrgueres murchos, mas veio um monstro transbordando bacon e queijo. Comida honesta demais.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "O preco eh excelente e vem muita comida mesmo, mata a fome facinho. So achei que faltou um pouco de sal no frango e veio meio morno, mas pelo valor compensa mt.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": "Frango com pouco sal e temperatura morna"
+    }
+  },
+  {
+    "review_texto": "Comida caseira deliciosa e porção super generosa! Paguei super barato no prato executivo e veio muito caprichado, embalagem bem lacrada.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Caraca bicho quase n coube no prato qnd fui despejar a quentinha kkkkk 18 reais mt bem investidos parabens aos envolvidos",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "porcao gigantesca de batata com cheddar e bacon, preco justo demais da conta. da pra 3 pessoas tranquilamente",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Surpreendeu positivamente. Valor super em conta para o padrão da comida. Parmegiana muito bem servida e com queijo de verdade, alimenta dois sem miséria.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Mano do céu, a marmitex veio quase estourando de tão cheia kkkk bife acebolado gigante. Chegou rapidinho ainda por cima.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "positivo",
+      "embalagem": "neutro",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Melhor custo beneficio da regiao sem duvidas. Prato farto, gostoso e preco acessivel. Ja pedi umas 5 vezes essa semana.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "A porção é realmente enorme pelo preço cobrado, alimenta muito bem. O problema foi que o molho vazou todo na sacola plástica porque o pote é frágil.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": "Embalagem frágil com vazamento de molho"
+    }
+  },
+  {
+    "review_texto": "rango monstro! pedi o executivo de alcatra e veio carne p dar e vender. sabor 10/10 e valor super honesto",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Vale cada centavo real oficial. Comida bem temperada, quantidade absurda pelo que custa no app. Estão de parabéns!",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Tamanho otimo, preco justo, mas infelizmente a comida veio quase fria pq atrasou mais de 40 minutos em relacao a previsao.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": "Atraso excessivo na entrega gerando comida fria"
+    }
+  },
+  {
+    "review_texto": "Preço imbatível pra quantidade que mandam. Uma quentinha média deles dá pra almoço e janta fácil. Feijãozinho caseiro nota mil.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "veio muito bem servido mesmo slk, preco top. so achei a carne meio dura de mastigar, mas pelo valor ta valendo",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": "Carne um pouco dura"
+    }
+  },
+  {
+    "review_texto": "Sensacional! Pedimos o yakisoba família achando que era marketing, mas veio uma bacia de comida deliciosa por um preço muito camarada.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Porção super farta e saborosa. Só esqueceram de mandar a farofa que tava inclusa no prato, mas pelo menos o custo benefício continuou bom.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": "Item farofa faltante no pedido"
+    }
+  },
+  {
+    "review_texto": "Comida simples, muito saborosa e abundante. É raro achar restaurante que não economiza na quantidade mantendo o preço baixo hoje em dia.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "pensei q ia vir uma marmitinha mixuruca pelo preco de 15 pila mas veio socada de macarrao e frango empanado crocante, amei",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Excelente custo-benefício. Prato farto, chegou super quente e bem embalado. Impossível reclamar desse valor.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "A porção é farta pelo valor, mas veio azedo o feijão com cheiro podre. Solicitei o cancelamento e estorno imediato, nunca mais peço aqui!",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": true,
+      "resumo_critica": "Comida estragada e azeda gerando pedido de estorno"
+    }
+  },
+  {
+    "review_texto": "Gostei bastante! Prato executivo muito bem dosado, fartura sem perder a qualidade do arroz e feijao. Preco justo demais.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Marmita monstra, sustenta peão o dia todo kkkk. Barato, gostoso e sem frescura. Nota 10!",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "o sabor tava bom mas vei tudo revirado no pote o feijao derramou por cima do arroz e da batata q ficou super mole faltou divisoria nessa quentinha",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Comida revirada e batata amolecida por falta de divisória no pote"
+    }
+  },
+  {
+    "review_texto": "A comida ate que eh gostosa mas a sacola veio totalmente aberta sem nenhum lacre de seguranca da loja. Achei super anti higienico, custa colocar um grampo ou fita??",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Sacola sem lacre de segurança ou vedação"
+    }
+  },
+  {
+    "review_texto": "pessimo nao compro nunca mais quero meu reembolso ja! o poke veio parecendo uma sopa tudo batido e misturado e a sacola sem lacre nenhum parece ate que foi mexida",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Poke totalmente revirado sem lacre na embalagem com pedido de estorno"
+    }
+  },
+  {
+    "review_texto": "Pedi o prato executivo de parmegiana e veio tudo socado num pote unico. O molho empapou a batata frita e o arroz virou um grude. Pelo preco cobrado deveriam usar pote com divisao.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Falta de divisória no pote arruinou a consistência dos alimentos"
+    }
+  },
+  {
+    "review_texto": "chegou super rapido o lanche e mt bem feito mas a sacola de papel veio sem adesivo nenhum aberta qualquer um podia ter colocado a mao ali meio zoado isso",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "positivo",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Sacola de entrega sem adesivo ou lacre de proteção"
+    }
+  },
+  {
+    "review_texto": "Sushi completamente destruido na barca. Veio tudo prensado num canto so, shoyu derramou e os hots misturaram com os sashimis quentes. Nao da nem pra comer isso, dinheiro jogado no lixo, aplicativo nunca mais.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Comida japonesa destruída e misturada dentro da embalagem sem divisórias adequadas"
+    }
+  },
+  {
+    "review_texto": "o rango e bom dmais mt bem servido mas pow mandem uma marmita com separador o pure misturou todo no feijao parecia uma gororoba kkk mas comi tudo",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": "Comida misturada no pote por ausência de divisória"
+    }
+  },
+  {
+    "review_texto": "Preco justo pelo tamanho da porcao mas a falta de capricho na embalagem desanima. Veio sem fita de seguranca na sacola e a salada veio quente debaixo do frango.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": "Sacola sem fita de segurança e salada em contato direto com comida quente"
+    }
+  },
+  {
+    "review_texto": "Nunca passei por isso, pote veio destampado dentro da sacola sem lacre, comida derramada e fria. Pedi cancelamento na mesma hora, restaurante perdeu cliente fiel.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Pote destampado e sacola sem lacre com comida derramada"
+    }
+  },
+  {
+    "review_texto": "veio sem lacre nenhum na caixa das esfihas qqr pessoa podia abrir e o queijo veio todo grudado na tampa da caixa... precisam rever isso urgente",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Caixa de esfiha sem lacre com recheio colado na tampa"
+    }
+  },
+  {
+    "review_texto": "Tudo uma delicia tempero monstro nota dez apenas uma sugestao colocar divisoria entre o tropeiro e a couve pq chegou meio empapado mas de resto top",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Falta de divisória entre guarnições empapou a comida"
+    }
+  },
+  {
+    "review_texto": "A embalagem do acai veio sem nenhum selo adesivo e os complementos vieram todos jogados dentro do mesmo copo misturados, virou uma pasta liquida horrivel. Nao recomendo.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Açaí sem selo adesivo e complementos sem separação adequada"
+    }
+  },
+  {
+    "review_texto": "horrivel experiencia pedi macarrao e mandaram num pote raso sem lacre e todo virado de lado molho espalhado por tudo uma nojeira",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Pote sem lacre virado de lado com molho vazado"
+    }
+  },
+  {
+    "review_texto": "Pela qualidade da comida esperava um cuidado maior no envio. O pedido custou caro pra vir numa quentinha comum de isopor sem trava e sem divisoria, feijoada virou papa com a farofa.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Embalagem de baixa qualidade sem travas ou divisórias pelo preço cobrado"
+    }
+  },
+  {
+    "review_texto": "o podrao e top dms mas a sacola veio rasgada e sem o lacre do restaurante fiquem espertos nisso ai galera seguranca em primeiro lugar",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Sacola rasgada e sem lacre de proteção da loja"
+    }
+  },
+  {
+    "review_texto": "Exijo devolucao do meu dinheiro! O pedido veio violado, sem lacre nenhum e a comida revirada como se alguem tivesse mexido no prato. Nao vou comer isso de jeito nenhum, absurdo total!",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Pedido com suspeita de violação, sem lacre e comida revirada"
+    }
+  },
+  {
+    "review_texto": "gostoso dms mas mandem a salada em pote separado pfvr veio cozinhando junto com a carne quente dentro do mesmo pote sem divisao",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Salada murcha por falta de divisória com a comida quente"
+    }
+  },
+  {
+    "review_texto": "strogonoff excelente mas a batata palha veio socada dentro do molho pq nao tinha divisoria no pote ai fica toda murcha neh gente vamo pensar nisso",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Batata palha colocada dentro do molho por ausência de divisória"
+    }
+  },
+  {
+    "review_texto": "Hamburguer bom batata crocante so achei estranho a caixa vir totalmente solta dentro da sacola sem grampo nem fita adesiva de protecao",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Embalagem sem grampo ou fita adesiva de proteção"
+    }
+  },
+  {
+    "review_texto": "Pessimo atendimento da cozinha. Mandaram meu prato vegano num pote so com o molho encharcando tudo, parecia uma lavagem. Sem falar que a sacola veio aberta sem etiqueta de seguranca. Nao compro mais aqui.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Comida revirada com molho em excesso e sacola sem lacre de segurança"
+    }
+  },
+  {
+    "review_texto": "comida mt boa e fresca entrega no tempo certo mas a sobremesa veio no mesmo saco tombada e melou a quentinha toda deviam prender melhor os potes",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "positivo",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Potes mal acomodados tombaram dentro da sacola"
+    }
+  },
+  {
+    "review_texto": "O bife a cavalo veio com a gema estourada e escorrida no papelao da tampa. Colocaram tudo amontoado sem divisoria de plastico. O sabor tava ok mas a aparencia horrivel.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Comida amassada contra a tampa por falta de divisória ou altura no recipiente"
+    }
+  },
+  {
+    "review_texto": "Marmitex honesta pelo preco que cobram bastante comida mas veio tudo misturado feijao arroz e vinagrete parecia comida de cachorro. Custa por uma divisoria no isopor?",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": "Quentinha de isopor sem divisória misturou todos os ingredientes"
+    }
+  },
+  {
+    "review_texto": "Total falta de respeito com o consumidor comida fria e toda revirada pote aberto dentro da sacola sem lacre algum quero cancelamento imediato e meu cartao estornado",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Pote aberto, comida revirada e ausência de lacre com pedido de cancelamento"
+    }
+  },
+  {
+    "review_texto": "pastel bem recheado e quentinho pena que os doces vieram amassados no fundo da sacola sem nenhum adesivo lacrando a embalagem principal",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Itens amassados no fundo da embalagem e ausência de adesivo de lacre"
+    }
+  },
+  {
+    "review_texto": "Frango completamente cru no meio, dava pra ver o sangue escorrendo no osso. Um perigo pra saude publica! Joguei tudo fora e ja solicitei o estorno no app, se nao resolverem vou direto no Procon denunciar esse restaurante lixo. Nunca mais peco aqui.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Frango cru com sangue e risco sanitário"
+    }
+  },
+  {
+    "review_texto": "A maionese verde veio estragada, com cheiro forte de azedo e gosto podre. Quase vomitei na primeira mordida. Falta de respeito total com o consumidor, quero meu dinheiro de volta agora ou levo o caso adiante. Nao comprem!",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Molho azedo estragado e com cheiro podre"
+    }
+  },
+  {
+    "review_texto": "Pedi uma marmita de 45 reais e o feijao veio puro vinagre de tao azedo. Tive que jogar o almoco inteiro no lixo e passar fome no trabalho. Perderam um cliente pra sempre, vergonhoso servir isso.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Feijão totalmente azedo tornando refeição intragável"
+    }
+  },
+  {
+    "review_texto": "O sushi veio com o peixe escuro, quente e cheirando muito mal. Claramente passado do ponto de consumo. Cancelem e estornem o valor no meu cartao imediatamente, nao arrisco pegar infeccao alimentar. Nao recomendo pra ninguem.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Sushi estragado com peixe quente e malcheiroso"
+    }
+  },
+  {
+    "review_texto": "Hamburguer de 60 conto com o blend de carne cru e gelado por dentro, alem de ter vindo faltando o refri. Absurdo cobrarem esse preco pra entregar comida podre. Ja abri chamado exigindo reembolso total e nunca mais compro nesse lugar.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Carne crua e fria além de item faltante"
+    }
+  },
+  {
+    "review_texto": "o pure de batata tava talhado e com bolhas parecendo que fermentou fora da geladeira... pior restaurante da cidade liguei la e foram super grossos falando que o problema era meu. ja acionei o suporte pro estorno e se nao devolverem e procon na certa",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Purê fermentado e azedo com atendimento grosseiro"
+    }
+  },
+  {
+    "review_texto": "A comida chegou com mais de duas horas de atraso, completamente fria parecendo que saiu da geladeira e a parmegiana tava com molho azedo. Experiencia horrorosa, o entregador ainda jogou o pacote no balcao. Nao compro nunca mais.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Comida gelada e molho azedo com grande atraso na entrega"
+    }
+  },
+  {
+    "review_texto": "carne de porco crua no centro!!!! vcs querem matar os clientes de cisticercose??? absurdo inaceitavel isso e crime contra a saude publica ja tirei foto e vou mandar pra vigilancia sanitaria alem de exigir meu estorno",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Carne de porco crua representando risco grave à saúde"
+    }
+  },
+  {
+    "review_texto": "Pizza cara de 90 reais que veio com o queijo rançoso e a massa crua e massuda. Tentei comer um pedaco e deu queimação na hora. Joguei na lixeira, exijo reembolso total do meu dinheiro, falta de vergonha na cara!",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Queijo rançoso e massa crua por preço abusivo"
+    }
+  },
+  {
+    "review_texto": "o arroz tava duro feito pedra e o strogonoff talhado com nata azeda... intragavel. pedi pelo app e me mandam lavagem? primeira e ultima vez que compro aq quero meu reembolso ja pedi no suporte",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Strogonoff talhado e arroz duro incomíveis"
+    }
+  },
+  {
+    "review_texto": "Simplesmente colocaram pao com bolor verde na parte de baixo do hamburguer. Tenho fotos de prova e ja estou abrindo reclamacao no Procon. Como a cozinha nao ve que o pao ta mofado? Decepcionado, nao peco mais e vou desinstalar esse lixo.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Pão de hambúrguer com mofo evidente"
+    }
+  },
+  {
+    "review_texto": "Frango a passarinho queimado por fora e cru sangrando por dentro. Pedi pra jantar e vou ter que dormir sem comer pq o restaurante fechou e mandou essa porcaria. Estorno imediato solicitado, pessimo servico!",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Frango queimado por fora e cru com sangue por dentro"
+    }
+  },
+  {
+    "review_texto": "Pastel de carne completamente babado e com cheiro insuportavel de carne passada. A embalagem ainda veio encharcada de gordura suja. Nota zero! Dinheiro jogado no lixo, vou querer meu estorno no cartao agora mesmo.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Carne estragada com recheio babado e embalagem engordurada"
+    }
+  },
+  {
+    "review_texto": "A salada veio preta e cozida pelo calor, o peixe estava cinza e cheirando carniça podre. Uma das piores experiencias que ja tive na vida com delivery. Quero o reembolso do valor integral ou processo vocs. Nao compro nunca mais.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Peixe estragado e salada apodrecida"
+    }
+  },
+  {
+    "review_texto": "pedi marmitex veio feijao azedo carne dura e fria parecendo sola de sapato e a sacola rasgada vazando molho em tudo. horrivel horrivel dinheiro mais mal gasto da minha vida nao recomendo e nunca mais peco",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Comida azeda e fria com embalagem vazando"
+    }
+  },
+  {
+    "review_texto": "Pedi sopa e veio literalmente azeda, borbulhando como se tivesse fermentado no calor. Uma nojeira sem tamanho. Paguei 40 reais pra receber agua estragada. Quero estorno rapido senao aciono o tribunal de pequenas causas.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Sopa azeda e fermentada"
+    }
+  },
+  {
+    "review_texto": "Esfiha de carne com cheiro azedo horrivel, massa crua grudando nos dentes. Minha esposa comeu um pedaco e ja esta com dor de estomago. Ja reclamei no app e quero o dinheiro de volta, vou denunciar na vigilancia sanitaria de imediato!",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Esfihas cruas e azedas causando mal-estar"
+    }
+  },
+  {
+    "review_texto": "Lasanha de queijo e presunto veio azeda parecendo vômito. Impossivel engolir aquilo. Restaurante nao tem padrao nenhum de higiene. Bloqueando vcs no aplicativo e exigindo estorno. Nao passem nem perto desse lugar.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Lasanha com queijo estragado e azedo"
+    }
+  },
+  {
+    "review_texto": "Rango horroroso, bife cru e fedendo carne velha, batata congelada e mucha. Pagar caro pra receber comida de lixeira nao da. Solicitei o cancelamento e devolucao do saldo, nunca mais gasto um centavo com essa loja.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Bife estragado e batatas murchas e frias"
+    }
+  },
+  {
+    "review_texto": "comprei prato executivo veio tudo misturado azedo parecendo lavagem de porco... gosto metalico horrivel cuspi na hora. quero meu reembolso e vou no procon segunda feira sem falta cliente nenhum merece esse lixo",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Prato com comida azeda e gosto metálico"
+    }
+  },
+  {
+    "review_texto": "O pedido alem de atrasar 1 hora veio com a carne de frango totalmente transparente e crua no meio do empanado. Pedi socorro no chat e nao resolveram, exijo meu reembolso ou vou abrir reclamacao formal no consumidor.gov!",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Frango empanado cru no centro e atraso no pedido"
+    }
+  },
+  {
+    "review_texto": "Macarrao com molho branco azedo, parecia leite podre azedo coalhado no prato. Gastei mais de 70 reais pra ficar com fome e nojo. Estorno obrigatorio ou faco exposed nas redes sociais, nunca mais entro nesse perfil.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Molho branco talhado e azedo a preço alto"
+    }
+  },
+  {
+    "review_texto": "veio gelado duro e carne com gosto de passada... parece que esquentaram resto de ontem no microondas e mandaram. nojento dms nao compro nunca mais se nao devolverem o pix vou processar vcs",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Comida com gosto de estragada parecendo sobra velha"
+    }
+  },
+  {
+    "review_texto": "O churrasco veio duro, frio e a maionese com cheiro toxico de estragada quente. Um perigo de salmonela puro! Denunciei a loja no aplicativo e solicitei meu estorno integral. Perderam totalmente a credibilidade, fujam desse lugar!",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Maionese estragada quente e carne fria dura"
+    }
+  },
+  {
+    "review_texto": "Carne moida do pastel com gosto amargo e azedo insuportavel, claramente estragada. Tivemos que jogar as 4 unidades no lixo. Quero meu reembolso total imediatamente ou vou direto ao Procon prestar queixa desse estabelecimento imundo!",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Recheio de carne moída estragado e amargo"
+    }
+  },
+  {
+    "review_texto": "O burger é até gostoso, mas a batata frita chegou parecendo purê de tão murcha. O vapor dentro do saquinho de papel destruiu a crocância.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Batata frita murchou devido ao vapor acumulado na embalagem."
+    }
+  },
+  {
+    "review_texto": "Metade do queijo da pizza veio grudado na tampa da caixa. Uma pena, pq a massa é boa, mas faltou aquele plástico tripé pra proteger.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Pizza grudada na tampa da caixa por ausência de espaçador plástico."
+    }
+  },
+  {
+    "review_texto": "Pastel veio suando dentro do saco plástico fechado... Perdeu toda a casquinha crocante, ficou pura borracha encharcada de óleo.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Pastel abafado no plástico que perdeu a crocância."
+    }
+  },
+  {
+    "review_texto": "mano o frango empanado veio ensopado da própria água que condensou no isopor kkk virou uma papa horrível n consegui nem comer direito",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Frango empanado ensopado pela condensação na marmita de isopor."
+    }
+  },
+  {
+    "review_texto": "Paguei 65 conto num combo com onion rings e veio tudo mole, grudado num bloco só de cebola e vapor. Não vale o preço cobrado de jeito nenhum.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Onion rings amolecidas e aglomeradas pelo vapor."
+    }
+  },
+  {
+    "review_texto": "A comida veio intragável! A pizza veio completamente revirada e colada na tampa, parecia restos. Já pedi cancelamento e estorno no app, primeira e última vez aqui.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Pizza destruída colada na tampa com pedido de cancelamento e estorno."
+    }
+  },
+  {
+    "review_texto": "Entrega foi rápida mas o podrão veio desmontando, o pão de baixo tava uma papa molhada de tanto vapor concentrado no papel alumínio.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "positivo",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Pão do sanduíche amolecido e ensopado pelo vapor no alumínio."
+    }
+  },
+  {
+    "review_texto": "Coxinha e kibe chegaram mornos e com a casca completamente mole. Se colocassem furos na caixa pra respirar não chegava suado assim.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Salgados fritos murchos por abafamento na embalagem sem respiro."
+    }
+  },
+  {
+    "review_texto": "top demais o sabor do lanche, carne no ponto perfeito! só a batata rústica q deu uma murchada no trajeto mas ainda deu pra comer de boa",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "neutro",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Batata rústica perdeu a crocância durante o percurso."
+    }
+  },
+  {
+    "review_texto": "O tempurá veio encharcado d vapor parecendo uma esponja úmida. Sushi tava bem fresco, mas a parte quente estragou a experiência.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Tempurá amolecido pela umidade condensada."
+    }
+  },
+  {
+    "review_texto": "Nachos vieram moles pq colocaram a porção de chili quente dentro do mesmo saco fechado. A crocância foi pro ralo.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Nachos amolecidos por compartilhar embalagem vedada com recheio quente."
+    }
+  },
+  {
+    "review_texto": "Muito caro pelo que entregam. A milanesa perdeu a crosta todinha no isopor, ficou solta e boiando na condensação da água.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Empanamento desprendido da carne por condensação no isopor."
+    }
+  },
+  {
+    "review_texto": "pao do smash veio molenga parecendo q mergulharam na agua... o vapor do queijo derretido abafado matou o sanduba",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Pão do smash umedecido excessivamente pelo vapor retido."
+    }
+  },
+  {
+    "review_texto": "As esfihas folhadas chegaram murchas e pesadas, a tampa da caixa amassou e grudou no recheio aberto. Deixou a desejar hj.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Massa folhada amolecida e tampa amassada sobre o recheio."
+    }
+  },
+  {
+    "review_texto": "Comida de péssima qualidade na entrega. Nuggets borrachudos e batata totalmente ensopada. Foi direto pro lixo, nunca mais peço nessa loja e quero estorno.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Frituras intragáveis por umidade com descarte e pedido de estorno."
+    }
+  },
+  {
+    "review_texto": "O sabor do frango a passarinho é sensacional e bem temperado, porém veio suando na caixa térmica e perdeu a casquinha crocante que eu tanto gosto.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Frango frito perdeu a crocância por condensação térmica."
+    }
+  },
+  {
+    "review_texto": "Hot roll com alga completamente borrachuda pelo vapor da embalagem quente de isopor, parecia chiclete.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Alga do hot roll borrachuda decorrente do vapor na embalagem."
+    }
+  },
+  {
+    "review_texto": "Batata crinkle molenga dms parece q esquentaram no microondas. O lanche monstro salvou o pedido pq tava saboroso.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Batata crinkle murcha por condensação de vapor."
+    }
+  },
+  {
+    "review_texto": "Churros espanhol com a massa ensopada de óleo e vapor, parecia cozido em vez de frito. Precisa urgentemente rever as embalagens para delivery.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Churros amolecido e com textura de cozido por retenção de vapor."
+    }
+  },
+  {
+    "review_texto": "A borda recheada da pizza tava divina, mas o meio ficou todo colado no papelão superior. Ficou só a massa pelada.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Recheio central da pizza colado na tampa da caixa."
+    }
+  },
+  {
+    "review_texto": "Infelizmente n compro mais aqui. Terceira vez que peço a batata canoa e ela vem uma pasta d'água no fundo da caixinha. Perderam o cliente.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Reincidência de batatas encharcadas por vapor com perda de cliente."
+    }
+  },
+  {
+    "review_texto": "O bolinho de bacalhau veio suado dentro do pote plástico hermético, perdeu toda a textura frita. Virou uma massa grudenta.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Bolinho de bacalhau abafado em pote hermético perdendo textura."
+    }
+  },
+  {
+    "review_texto": "rango bem servido pelo valor, mas veio abafado. a batata frita murchou mt no caminho, podiam furar o saquinho",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": "Batata murcha por falta de furos de ventilação no pacote."
+    }
+  },
+  {
+    "review_texto": "A parmegiana até que é bem feita, mas o vapor no isopor fez a casca da carne se desprender inteira e ficar empapada no molho.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Casca de empanamento desfeita pelo vapor abafado no isopor."
+    }
+  },
+  {
+    "review_texto": "Pão do lanche completamente desintegrado por causa da umidade presa dentro do papel acoplado. Peguei na mão e virou mingau.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Pão dissolvido por condensação excessiva no papel do embrulho."
+    }
+  },
+  {
+    "review_texto": "o lanche é bom dms hamburguer monstro bem temperado e chegou quentinho mas pqp quase duas horas esperando o pedido passar da producao... se tiver com fome imediata nao peca",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Demora excessiva de quase duas horas no preparo e entrega"
+    }
+  },
+  {
+    "review_texto": "Comida maravilhosa, tempero caseiro impecável e a parmegiana veio pelando de quente! Porém o restaurante atrasou 1h15 além do prazo previsto no app. Uma pena.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Atraso de mais de uma hora além da estimativa inicial do app"
+    }
+  },
+  {
+    "review_texto": "mano a pizza eh sensacional massa fininha recheio top mas demorou 1h40 pra chegar quase cancelei de tanta raiva",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Tempo de espera excessivo de quase duas horas"
+    }
+  },
+  {
+    "review_texto": "Nota 10 pro sabor, mas nota zero pra pontualidade. Mais de 70 min de atraso, o chat do restaurante nem respondia. Nunca mais compro aqui, perderam um cliente fiel. Quero ver se me reembolsam pelo estresse.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Falta de suporte no chat e atraso superior a 70 minutos gerando abandono da loja"
+    }
+  },
+  {
+    "review_texto": "o sushi tava fresquinho e o hot roll crocante e quentinho msm depois de tanto tempo, mas demorou uma eternidadeee mais de 1h de atraso total falta de respeito",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Atraso de mais de uma hora no envio do pedido"
+    }
+  },
+  {
+    "review_texto": "Comida excelente, muito saborosa e bem servida pelo preço cobrado! O único problema grave foi o tempo no app: a estimativa era 40min e levou 1h50 no total.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": "Tempo real de espera quase triplicou em relação à estimativa inicial"
+    }
+  },
+  {
+    "review_texto": "mt bom o podrao veio fumegando de quente bacon crocante mas fiquei mofando esperando quase 1h30 além do horário",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Espera de uma hora e meia além da previsão máxima"
+    }
+  },
+  {
+    "review_texto": "Prato delicioso e super bem temperado, parabéns ao chef! Mas o gerenciamento de pedidos de vocês é péssimo, previsão de entrega estourou em mais de 60 minutos.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Previsão de entrega do aplicativo estourada em mais de uma hora"
+    }
+  },
+  {
+    "review_texto": "Marmita veio super quentinha, comida caseira de qualidade. Mas não compensa o estresse: 1 hora e 20 minutos esperando além da janela informada.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Falta de pontualidade com mais de 80 minutos de atraso"
+    }
+  },
+  {
+    "review_texto": "pelo amor de deus organizem a cozinha de vcs!!! rango maravilhoso carne macia quentinha mas deu 2h de relogio desisti de almoçar no horario de trabalho",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Demora de duas horas inviabilizou o almoço em horário de trabalho"
+    }
+  },
+  {
+    "review_texto": "O yakisoba estava espetacular, muito saboroso e quentinho, porém o pedido demorou 1h10 além do prazo máximo estipulado pela plataforma.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Atraso de mais de 70 minutos em relação ao horário estimado"
+    }
+  },
+  {
+    "review_texto": "Pastel crocante, sequinho e com muito recheio, embalagem térmica segurou super bem o calor. Só que o tempo de espera foi um pesadelo: 1h e 15m esperando a confirmação e envio.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Demora excessiva na confirmação e envio do pedido"
+    }
+  },
+  {
+    "review_texto": "pedi as 20h chegou 22h15... inacreditável. se o lanche n fosse tao perfeito e bem feito eu teria mandado de volta com certeza",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Tempo de espera superior a duas horas entre pedido e chegada"
+    }
+  },
+  {
+    "review_texto": "A comida é nota 10, feijoada completa maravilhosa e veio fervendo. Mas o tempo de tela do app não condiz em nada com a realidade, ficamos mais de 1h esperando após o prazo esgotar.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Incongruência entre estimativa no app e atraso real de mais de 1h"
+    }
+  },
+  {
+    "review_texto": "sabor impecavel tudo quentinho, mas nao recomendo pq atrasou 1h30 do combinado. se vc tiver fome peca em outro lugar",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Atraso crítico de uma hora e meia prejudicando a experiência de consumo"
+    }
+  },
+  {
+    "review_texto": "Frango frito crocante e suculento, veio bem quente. Só precisa rever urgentemente a operação de cozinha, pois o atraso de 1h10 quase estragou o jantar.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Gargalo operacional na cozinha gerando mais de 70 minutos de atraso"
+    }
+  },
+  {
+    "review_texto": "o prato tava uma delicia quentinho e bem servido, mas demorou tanto q a fome ja tinha passado... mais de 1h de atraso total absurdo",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": "Tempo de espera abusivo de mais de uma hora além do prazo"
+    }
+  },
+  {
+    "review_texto": "Gastei 120 reais esperando comer na hora do jogo e o pedido chegou com 1h30 de atraso. A comida estava deliciosa e quentinha, mas essa foi a última vez, nunca mais peço aqui! Falta de respeito total.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Atraso de uma hora e meia resultando na perda definitiva do cliente"
+    }
+  },
+  {
+    "review_texto": "hamburguer mt saboroso carne no ponto e batata crocante msm quentinha mas o tempo de espera no app foi bizarro atrasou mais de 1h",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Atraso superior a 60 minutos impactando negativamente a experiência"
+    }
+  },
+  {
+    "review_texto": "Sabor impecável e chegou bem aquecido na caixa térmica lacrada, mas levou exatos 80 minutos além da tolerância máxima do app. Melhorem a estimativa de tempo.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Atraso de 80 minutos além do limite tolerado pelo aplicativo"
+    }
+  },
+  {
+    "review_texto": "o prato tava maravilhoso quentinho saboroso demais mas o restaurante simplesmente segurou o pedido por mais de 1 hora além do prazo. precisam rever essa logística",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Retenção excessiva do pedido no restaurante com mais de 1h de atraso"
+    }
+  },
+  {
+    "review_texto": "Risoto sensacional e quentinho, qualidade de restaurante caro. Porém, a espera de quase duas horas desanima qualquer um a pedir de novo.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Espera de quase duas horas prejudica a recorrência de compras"
+    }
+  },
+  {
+    "review_texto": "comida top veio quentinha bem temperada mas demorou mais de uma hora do previsto app marcava 21h chegou 22h20",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Atraso de 80 minutos após o prazo limite exibido no aplicativo"
+    }
+  },
+  {
+    "review_texto": "Esfiha quentinha massa levinha e recheio gostoso. O único problema foi a espera surreal de 1h15 a mais do que o app informou no momento da compra.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Atraso de 75 minutos em relação à previsão fornecida na compra"
+    }
+  },
+  {
+    "review_texto": "A comida estava uma delícia e super quente, mas esperei mais de 1h30 do prazo estimado. É um descaso com o cliente, quero o estorno da taxa e não peço nunca mais.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Atraso extremo de 90 minutos gerando solicitação de estorno e cancelamento de recorrência"
+    }
+  },
+  {
+    "review_texto": "rango brabo dms slc quentinho e no ponto",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "top de vdd salvou o almoco da firma",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "podrao responsa mt recheado valeu cada centavo",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "sempre peco aqui sem erro sensacional",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "veio certinho lanche monstro",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "comida ok nd dmais pelo preco ta valendo",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Qualidade regular da refeição."
+    }
+  },
+  {
+    "review_texto": "show d bola burger suculento dms",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "tudo 10/10 batata crocante msm vindo de longe",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "salvou minha janta bom e barato",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "veio bem embaladinho e quentinho top",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "massa dms vei tempero caseiro raiz",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "padrao de smp mt gostoso",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "normalzinho esperava mais pelo hype mas da pro gasto",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Refeição sem grande destaque em relação à expectativa."
+    }
+  },
+  {
+    "review_texto": "mto bommm porcao gigante slc",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "delicia d rango zero defeitos",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "chegou voando e td quentinho vlw",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "positivo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "pedi sem cebola e mandaram com mas o lanche e bao entao passa batido",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Envio de ingrediente que cliente solicitou retirar."
+    }
+  },
+  {
+    "review_texto": "top demais ja virei cliente fiel",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "comida boa mas achei pouca quantidade pro valor cobrado",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Porção pequena em relação ao preço."
+    }
+  },
+  {
+    "review_texto": "bao dimais da conta sushi fresquinho",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "feijaozao no capricho comida caseira braba",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "veio lacradinho e sem vazar nada top dms",
+    "analise": {
+      "comida": "nao_mencionado",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "meu deus q pizza perfeita queijo esticando",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "rango justo pelo preco nada surreal mas mata a fome",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "marmita pesada mt bem servida nota 10",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "veio td revirado o lanche frioo dmss carne parecw sola d sapato n da pra comee🤢🗑️ nunca mais peço dinhero jogado fora estorno agr pfv",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Lanche frio, revirado e carne excessivamente dura"
+    }
+  },
+  {
+    "review_texto": "lanxee monstro mt bomm slc veii batata crocanti dms veio quentinho😋😋😋🤙 top d demais da conta",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "faltow refri veio sem salada pedi x tudo veio so hamburgi e quejo 😡 cobram caro p vim faltando metade dos trem",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Itens faltantes e lanche incompleto divergente do cardápio"
+    }
+  },
+  {
+    "review_texto": "pizza td grudada na tampa friaa demoro 2 hiras pra chega motoboy nem deu boa noite pessimo horrivel quero meu dinhro de volta nunca mais compro nesse lixo",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "negativo",
+      "embalagem": "negativo",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Atraso excessivo, entregador ríspido e pizza colada na tampa"
+    }
+  },
+  {
+    "review_texto": "rango bao dms 🤤🤤🤌 veio td quentin e bem embaladinho recomendo dms slk",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "pexe com cheiro podreeee estragado certeza vomitei td🤢🤮🤮🤮 absurdo cobrar 100 conto nisso vo processa quero reembolso jaaa nunk mais",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Peixe com odor fétido causando intoxicação alimentar"
+    }
+  },
+  {
+    "review_texto": "veio normal nada d+ mas axo q pelo vlr devia vim mais batata veio 5 palito so",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Porção diminuta de batata em relação ao valor pago"
+    }
+  },
+  {
+    "review_texto": "caraca mt grandee veio ate a tampa o marmitex da pra dois come baratinho mto top parabensss👏👏🤤",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "caldo do feijao vazoo tudoo na sacola molho o pao td virou papa 🤬 saco rasgadiio mo nojeira",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Embalagem rompeu e o caldo vazou arruinando a comida"
+    }
+  },
+  {
+    "review_texto": "chego rapido ate mas a pizza tava geladassa parecia de ontem queijo duro nem derreteu 🍕❄️🥶",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "positivo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Pizza fria com queijo duro parecendo comida requentada"
+    }
+  },
+  {
+    "review_texto": "carne crua vermelha pingando sange e pedi bem passada🤢🤮🤮🤮 joguei no lixo perdi meu dinheiro n compro nunca mais",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Ponto da carne errado, entregue completamente crua"
+    }
+  },
+  {
+    "review_texto": "🤤🍔🍟🥤 top top topzin veio certinho quenteee bem servidim amei",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "pedi coca zero mandaro fanta uva sem canudo tbm comida sem tempero nemhum insossa",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Envio de bebida errada e comida sem tempero"
+    }
+  },
+  {
+    "review_texto": "veio uma miseria de carne pelo preço q paguei pura enganacao 50 conto num potinho minusculo n vale a pena 👎👎",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Quantidade de carne irrisória para o valor cobrado"
+    }
+  },
+  {
+    "review_texto": "mano do ceu q delisia de lancheee derretendo na boka 😋😋 so demoro um pokin mas valeu a espera",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Demora excessiva na entrega"
+    }
+  },
+  {
+    "review_texto": "comida oleosa dmais td encharcada de gordura passei mal a noite td🤢 n peco mais aki",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Comida extremamente gordurosa resultando em mal-estar"
+    }
+  },
+  {
+    "review_texto": "caixa amassada lanche todo esmagado parese q sentaro em cima 📦💥 mas o gosto tava bãozin ate",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Embalagem esmagada danificando a estrutura do lanche"
+    }
+  },
+  {
+    "review_texto": "pastel seco sem recheio puro vento e oleo veio frio queijo nem apareceu 🤡🤡🤡",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Pastel frio, sem recheio e engordurado"
+    }
+  },
+  {
+    "review_texto": "mano mto barato pela quantidade vem comida pra caramba slc bom demais virei cliente fiel ❤️🔥",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "esquecerao meus molhos pedi 3 nao veio nenhum lanche fico seco engasgando🤬🤬 arruma essa comanda aii",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Esquecimento dos molhos adicionais solicitados"
+    }
+  },
+  {
+    "review_texto": "veio cabelo na comida q nojo 🤮🤮🤮🤮🤮🤮 cabelo pretp enrolado na marmita to com ancil de vomito kero cancelamento e estorno ja app lixo restaurante porco",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Cabelo encontrado na refeição, quebra grave de higiene"
+    }
+  },
+  {
+    "review_texto": "comida normalzinha nd demais da pro gasto mato a fome",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "acai chego puro suco quente td derretido parecia sopa 🥣 sem condicoes nem mandaro gelo ou sacola termica horivel",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Açaí completamente derretido por falta de proteção térmica"
+    }
+  },
+  {
+    "review_texto": "podrao d responsa mt recheio maionese verde cabulosa d baum 🍔🤤🤤🤤 slc top",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "pizza preta d queimada fundo todo carvao gosto de cinza horrivel 🤮 liguei la e desligarao na minha cara quero meu estorno n compro nunca mais nessa bosta",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Pizza completamente carbonizada e descaso no atendimento telefônico"
+    }
+  },
+  {
+    "review_texto": "veio pelando de quente msm parece q saiu do forno agora!! sacola super bem lacrada com adesivo parabens",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Mano surreal de bom, lanche quentinho fumegando e a embalagem termica segurou tudo sem vazar uma gota de molho. Top demais",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "O lacre de seguranca veio intacto e a comida fervendo de quente, mas esqueceram a coca cola q eu paguei 12 conto. Nao da ne",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Item pago ausente do pedido"
+    }
+  },
+  {
+    "review_texto": "embalagem impecavel td lacradinho e quentinho mas faltou sal no arroz e o bife tava meio duro pelo preco podia ser bem melhor",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Comida sem tempero e carne dura pelo valor cobrado"
+    }
+  },
+  {
+    "review_texto": "veio muito rapido e o rango tava fumegando! selo intacto, tudo nos conformes. pedirei mais vezes com ctz",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "positivo",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "comida boa bem quente e lacrada mas cobrar 45 reais nesse combo minusculo eh sacanagem pura",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Porção muito reduzida desproporcional ao preço"
+    }
+  },
+  {
+    "review_texto": "Sensacional o cuidado do restaurante. Sacola com lacre duplo, marmita termica de aluminio que manteve a feijoada pelando. Valeu cada centavo.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "mt bom veio super quente queimei ate a lingua kkkk lacre de seguranca certinho",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Embalagem termica top e comida quentinha, mas veio pedido trocado! Pedi sem cebola e veio socado de cebola, tive crise alergica. Quero meu estorno imediatamente nunca mais compro aqui",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": true,
+      "resumo_critica": "Ingrediente incorreto causou reação alérgica com exigência de estorno"
+    }
+  },
+  {
+    "review_texto": "veio fumegando de quente e muito bem embalado com lacre, so achei a porcao de batata meio mixuruca pro valor",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Quantidade de acompanhamento abaixo do esperado pelo preço"
+    }
+  },
+  {
+    "review_texto": "Pizza chegou fervendo o queijo ainda borbulhando, lacre da caixa intacto. Melhor pizzaria do bairro sem duvidas!",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "A comida chegou quente e a sacola lacradinha certinha, mas o sabor tava totalmente sem graca, frango ressecado.",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Carne ressecada e preparo insosso"
+    }
+  },
+  {
+    "review_texto": "gostei bastante veio selado certinho e quentinho demorou um pouco alem do previsto mas compensou pelo sabor",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Atraso no tempo de entrega previsto"
+    }
+  },
+  {
+    "review_texto": "Podrão monstro!! Veio fumaçando, pacote super protegido com fita de seguranca, muito barato pela quantidade absurda de comida.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Tudo muito bem embalado, lacre seguro e comida quente, porém demorou quase duas horas pra chegar, absurdo",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "negativo",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Demora excessiva para entrega do pedido"
+    }
+  },
+  {
+    "review_texto": "parabens pelo capricho! saco termico selado com fita adesiva personalizada, lanche super quente e gostoso",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "veio quentinho e lacrado certinho, padrão ok de almoço executivo nada demais mas cumpre o papel",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "A comida estava tão quente que parecia feita na hora na minha mesa, embalagem térmica de muita qualidade e super lacrada. Nota 10!",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Chegou fumegando e com lacre inviolavel, mas a carne veio completamente crua por dentro, impossivel comer. Tive q jogar fora. Quero reembolso ou cancelo minha conta do app",
+    "analise": {
+      "comida": "negativo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "negativo",
+      "risco_churn": true,
+      "resumo_critica": "Carne crua estragando a refeição e solicitação de reembolso"
+    }
+  },
+  {
+    "review_texto": "otimo custo beneficio! marmitex gigante, chegou pegando fogo de tao quente e a sacola super bem fechada com selo.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "Muito capricho na embalagem, fita de segurança impecável e o risoto veio bem quentinho e cremoso. Experiência nota 10.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "veio quentasso lacradinho top dms motoboy super educado parabens pelo trampo",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "positivo",
+      "embalagem": "positivo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "A comida em si tava pelando de quente e embalagem lacrada, mas esqueceram o talher e o guardanapo q pedi, e o refrigerante veio quente dentro da mesma sacola termica da marmita... vacilo basico",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Bebida aquecida pelo contato com marmita e ausência de talheres solicitados"
+    }
+  },
+  {
+    "review_texto": "Pensa num rango gostoso e quente! Chegou soltando vapor quando abri o lacre. Preço super justo, virei fã.",
+    "analise": {
+      "comida": "positivo",
+      "entrega": "nao_mencionado",
+      "embalagem": "positivo",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": null
+    }
+  },
+  {
+    "review_texto": "tudo lacrado e fervendo, mas o hamburguer tava desmontado dentro da caixa termica parecia q bateram o lanche",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "negativo",
+      "custo_beneficio": "nao_mencionado",
+      "risco_churn": false,
+      "resumo_critica": "Sanduíche desmontado e amassado durante transporte"
+    }
+  },
+  {
+    "review_texto": "Comida ok, faltou um pouco de tempero no feijão e o bife tava meio borrachudo. Chegou certinho no último minuto da previsão informada.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Comida sem tempero e bife duro, entrega no limite do prazo"
+    }
+  },
+  {
+    "review_texto": "veio no prazo limite certinho mas o lanche bem morno... carne sem sal nenhum batata murcha. dá pra comer mas esperava mais pelo valor que paguei",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Lanche morno, sem sal e batata murcha"
+    }
+  },
+  {
+    "review_texto": "pizza comestível nada d+, massa meio pesada e recheio sem muito gosto. chegou quase estourando o tempo do app mas veio inteira",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "positivo",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Pizza sem sabor marcante e entrega no limite do tempo"
+    }
+  },
+  {
+    "review_texto": "Combinado mediano. O salmão tava fresco mas as peças mt pequenas e o arroz meio sem vinagre, sem sabor. Demorou bem na tampa dos 60 min.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Peças pequenas, arroz sem sabor e entrega no limite do horário"
+    }
+  },
+  {
+    "review_texto": "o açai veio ok, nada demais, podia ter vindo mais leite ninho. chegou no limite da previsao mas nao derreteu tanto. nota 3 de 5",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "neutro",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Pouco complemento no açaí e entrega no teto da estimativa"
+    }
+  },
+  {
+    "review_texto": "Pastel sequinho até, mas recheio de carne mt sem sal, tive que tacar sal em casa. Entregue dentro do limite estipulado pelo app.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Recheio insosso e entrega no limite"
+    }
+  },
+  {
+    "review_texto": "Rango básico. Legumes cozidos no ponto mas molho aguado e sem sal. Não fede nem cheira. Chegou no finzinho do prazo previsto.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Molho aguado e sem sal, entrega no fim do prazo"
+    }
+  },
+  {
+    "review_texto": "Marmita veio morna, frango um pouco ressecado e sem muito tempero. Dá pra matar a fome na correria do trampo, nada além disso.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Frango ressecado, comida morna e tempero fraco"
+    }
+  },
+  {
+    "review_texto": "Esfihas ok, massa meio grossa e recheio sem gracinha. Demorou 50 minutos cravados que era a estimativa maxima. Quebrou o galho.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Massa grossa, recheio sem sabor e entrega no limite estipulado"
+    }
+  },
+  {
+    "review_texto": "podraozao padrao, matou a larica mas veio meio frio e faltou tempero no hamburguer. entrega bateu na trave de atrasar.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Lanche frio, hambúrguer insosso e entrega no limite"
+    }
+  },
+  {
+    "review_texto": "Massa ao molho branco bem sem sal, tive que colocar queijo ralado e acertar o sal aqui em casa. Embalagem ok, chegou no último minuto previsto.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "neutro",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Molho sem sal precisando de ajuste caseiro"
+    }
+  },
+  {
+    "review_texto": "Tapioca meio dura e pouco recheio pelo preço que cobram. Sabor neutro. Demorou quase uma hora, no teto do app.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Massa dura, pouco recheio para o valor e demora no limite"
+    }
+  },
+  {
+    "review_texto": "Estrogonofe meio sem graça, parece que esqueceram o sal. A porção é justa pelo preço mas não surpreende em nada. Chegou dentro da previsão.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "positivo",
+      "risco_churn": false,
+      "resumo_critica": "Estrogonofe sem sal apesar da porção honesta"
+    }
+  },
+  {
+    "review_texto": "Poke honesto, mas nada que se destaque. O molho veio muito ralo, peixe fresco mas faltou tempero no arroz. Não sei se pediria de novo.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Molho ralo e arroz sem tempero"
+    }
+  },
+  {
+    "review_texto": "Kebab ok, mas carne meio seca e sem muito condimento. Chegou nos 45 do segundo tempo antes de dar como atrasado. Razoável.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Carne seca, falta de tempero e entrega no limite"
+    }
+  },
+  {
+    "review_texto": "salgadinhos medianos, massa um pouco pesada e recheio de frango totalmente insosso. pelo valor cobrado nao achei nada demais.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "nao_mencionado",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Massa pesada e recheio sem sal com custo desfavorável"
+    }
+  },
+  {
+    "review_texto": "Salada veio fresca mas o frango totalmente sem sal. Molho bem aguado. Chegou no finzinho do horário prometido.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Frango sem sal e molho aguado, entrega no limite"
+    }
+  },
+  {
+    "review_texto": "Risoto ok, arroz no ponto certo mas sabor bem plano, faltou tempero e queijo. Pelo preço podia ser mais caprichado. Entrega no limite.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Risoto insosso e caro, entrega no teto do prazo"
+    }
+  },
+  {
+    "review_texto": "Porção de calabresa com batata ok. Batata meio murcha e sem sal, calabresa normal de mercado. Chegou cravado nos 50min que marcava.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Batata murcha e insossa, entrega no limite"
+    }
+  },
+  {
+    "review_texto": "Feijão com caldo ralo e carnes sem mt tempero, esperava mais pelo anúncio. Veio bem lacrado pelo menos. Tempo de entrega ok, quase no limite.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "positivo",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Caldo ralo e carnes sem tempero"
+    }
+  },
+  {
+    "review_texto": "Dogão padrão, salsicha normal, molho básico meio aguado. Nada de extraordinário. Chegou no tempo limite estimado.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Molho aguado e sabor comum, entrega no limite"
+    }
+  },
+  {
+    "review_texto": "Burrito bem morno e feijão sem tempero mexicano nenhum, bem abrasileirado e sem sal. Dá pra comer mas não repetiria tão cedo. Chegou no prazo estimado final.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Comida morna, falta de autenticidade e tempero, entrega no limite"
+    }
+  },
+  {
+    "review_texto": "Carne macia mas totalmente sem sal, tive q jogar sal por cima. Pelo valor esperava algo melhor temperado. Chegou quase estourando o tempo.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "negativo",
+      "risco_churn": false,
+      "resumo_critica": "Carne sem tempero e cara, entrega no limite do prazo"
+    }
+  },
+  {
+    "review_texto": "Caldo verde ok, esquentou a noite mas achei bem aguado e sem sal. Torradinha veio meio murcha no saquinho. Entrega no teto da previsão.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "neutro",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Caldo ralo sem sal, torrada murcha e entrega no teto da previsão"
+    }
+  },
+  {
+    "review_texto": "Parmê padrãozinho, molho pronto sem muito sabor e queijo meio borrachudo. Deu pra matar a fome mas não impressiona. Veio no último minuto previsto.",
+    "analise": {
+      "comida": "neutro",
+      "entrega": "neutro",
+      "embalagem": "nao_mencionado",
+      "custo_beneficio": "neutro",
+      "risco_churn": false,
+      "resumo_critica": "Molho insosso, queijo borrachudo e entrega no limite do tempo"
+    }
+  }
+]

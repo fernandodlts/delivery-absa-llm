@@ -1,0 +1,17 @@
+# Ambiente virtual e variáveis sensíveis
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos temporários de sistema e treino
+.DS_Store
+Thumbs.db
+outputs/
+unsloth_compiled_cache/
+*.gguf
